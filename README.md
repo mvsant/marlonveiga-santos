@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning React, Vue/Quasar, Ruby on Rails.
-- 😄 Pronouns: He / Him (or It sometmes...)
+- 😄 Pronouns: He / Him (or It sometimes...)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/marlonvsantos?label=Siga-me&logoColor=yellow)
