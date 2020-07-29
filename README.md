@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React, Vue/Quasar, Ruby on Rails.
+- 😄 Pronouns: He / Him (or It sometmes...)
+![Twitter Follow](https://img.shields.io/twitter/follow/marlonvsantos?label=Siga-me&logoColor=yellow)
+
 <!--
 **marlonveiga-santos/marlonveiga-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
