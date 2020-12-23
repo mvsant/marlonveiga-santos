@@ -4,7 +4,9 @@
 - 😄 Pronouns: He / Him
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/marlonvsantos?label=Siga-me&logoColor=green)
+📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/marlonvsantos?label=Siga-me&logoColor=green)
+
+Portfolio: [https://marlonveiga-santos.github.io/](https://marlonveiga-santos.github.io/)
 
 <!--
 **marlonveiga-santos/marlonveiga-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
