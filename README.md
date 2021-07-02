@@ -9,12 +9,12 @@ My name is Marlon and I want make grat things wit programming.
 ## **:bar_chart:  GitHub Statistics:**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a><br/>
+<a href="https://github.com/Gurupreet">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
 </a>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <!--
 **marlonveiga-santos/marlonveiga-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 -->
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
 
 ## **Linguagens e Ferramentas:**  
 
