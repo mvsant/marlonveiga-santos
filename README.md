@@ -7,7 +7,7 @@
 
 # Hello World 👋
 
-My name is Marlon and I want make great things wit programming.
+My name is Marlon and I want make great things with programming.
 
 - 🌱 I’m currently learning React, Vue/Quasar, Ruby on Rails.
 - :heartpulse: Pronouns: He / Him
@@ -24,21 +24,22 @@ My name is Marlon and I want make great things wit programming.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
 
 [website]: https://bemcodar.wordpress.com/
 [twitter]: https://twitter.com/marlonvsantos
 [instagram]: https://www.instagram.com/daveigamarlon/
 [linkedin]: https://www.linkedin.com/in/marlon-veiga-santos/
-[portfolio]: 
+[portfolio]: https://marlonveiga-santos.github.io/
 <br>
 
 #### 📫 How to reach me:
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [website] **|** 
+🐦 [twitter] **|** 
+📷 [instagram] **|** 
 👔 [linkedin] **|**
-🖥️ [portfolio](https://marlonveiga-santos.github.io/){:target="_blank"}
+🖥️ [portfolio]
 
 <!--
 **marlonveiga-santos/marlonveiga-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
