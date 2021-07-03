@@ -29,7 +29,7 @@ My name is Marlon and I want make great things wit programming.
 [twitter]: https://twitter.com/marlonvsantos
 [instagram]: https://www.instagram.com/daveigamarlon/
 [linkedin]: https://www.linkedin.com/in/marlon-veiga-santos/
-[portfolio]: https://marlonveiga-santos.github.io/
+[portfolio]: 
 <br>
 
 #### 📫 How to reach me:
@@ -38,7 +38,7 @@ My name is Marlon and I want make great things wit programming.
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin] **|**
-🖥️ [portfolio]
+🖥️ [portfolio](https://marlonveiga-santos.github.io/){:target="_blank"}
 
 <!--
 **marlonveiga-santos/marlonveiga-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
