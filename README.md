@@ -21,12 +21,8 @@ My name is Marlon and I want make great things wit programming.
 ## **:bar_chart:  GitHub Statistics:**
 
 <div align="center" style="margin:1rem auto">
-<a href="https://github.com/Gurupreet">
  <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-<a align="left" href="https://github.com/Gurupreet">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
-</a>
 </div>
 
 [website]: https://bemcodar.wordpress.com/
