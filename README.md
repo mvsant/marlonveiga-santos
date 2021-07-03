@@ -1,4 +1,8 @@
-# Hello World 👋
+
+<div align="center" style="margin:1rem auto">
+ <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
+</div># Hello World 👋
 
 My name is Marlon and I want make great things wit programming.
 
@@ -13,17 +17,14 @@ My name is Marlon and I want make great things wit programming.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+<code><img height="30" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>&nbsp;
 
 ## **:bar_chart:  GitHub Statistics:**
 
-<div align="center" style="margin:1rem auto">
- <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
-</div>
+
 
 [website]: https://bemcodar.wordpress.com/
 [twitter]: https://twitter.com/marlonvsantos
