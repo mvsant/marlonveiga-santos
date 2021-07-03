@@ -1,21 +1,10 @@
 # Hello World 👋
 
-My name is Marlon and I want make grat things wit programming.
+My name is Marlon and I want make great things wit programming.
 
 - 🌱 I’m currently learning React, Vue/Quasar, Ruby on Rails.
 - :heartpulse: Pronouns: He / Him
 - 🤔 I’m looking for help with: code structure and solid principles.
-
-## **:bar_chart:  GitHub Statistics:**
-
-<div align="center" style="margin:1rem auto">
-<a href="https://github.com/Gurupreet">
- <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></div>
-</a>
-<a align="left" href="https://github.com/Gurupreet">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
-</a>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ## **Linguagens e Ferramentas:**  
 
@@ -28,6 +17,18 @@ My name is Marlon and I want make grat things wit programming.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>&nbsp;
+
+## **:bar_chart:  GitHub Statistics:**
+
+<div align="center" style="margin:1rem auto">
+<a href="https://github.com/Gurupreet">
+ <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+<a align="left" href="https://github.com/Gurupreet">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
+</a>
+</div>
+<img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 [website]: https://bemcodar.wordpress.com/
 [twitter]: https://twitter.com/marlonvsantos
