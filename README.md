@@ -8,13 +8,14 @@ My name is Marlon and I want make grat things wit programming.
 
 ## **:bar_chart:  GitHub Statistics:**
 
+<div align="center" style="margin:1rem auto">
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a><br/>
-<a href="https://github.com/Gurupreet">
+ <img src="https://github-readme-stats.vercel.app/api?username=marlonveiga-santos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></div>
+</a>
+<a align="left" href="https://github.com/Gurupreet">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonveiga-santos&theme=dracula&hide_langs_below=1" />
 </a>
-<img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ## **Linguagens e Ferramentas:**  
 
